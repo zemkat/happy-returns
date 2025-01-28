@@ -21,3 +21,92 @@ Bimonoidal categories, En-monoidal categories, and algebraic K-theory
 Calculus
 Causal inference for statistics, social, and biomedical sciences : an introduction
 Classical mechanics with Maple
+College physics
+Combinatorial enumeration
+Commentarii mathematici Helvetici
+Commutative algebra with a view toward algebraic geometry
+Condensed matter field theory
+Cosmic magnetic fields
+Depositional sedimentary environments, with reference to terrigenous clastics
+Direct and inverse scattering on the line
+Dynamic programming and optimal control
+Earthquakes, volcanoes, and tsunamis : an anatomy of hazards
+Electrohydrodynamics
+Electrospray ionization mass spectrometry : fundamentals, instrumentation, and applications
+Elementary methods in number theory
+Enlightening symbols : a short history of mathematical notation and its hidden powers
+Ergodic dynamics: from basic theory to applications
+Failure atlas for Hertz contact machine elements
+Financial calculus : an introduction to derivative pricing
+Fourier analysis : an introduction
+General topology
+Georg Cantor : his mathematics and philosophy of the infinite
+Graph edge coloring : Vizing's theorem and Goldberg's conjecture
+Graph polynomials
+Guide to geometric algebra in practice
+Higher order Fourier analysis
+Ideals, varieties, and algorithms : an introduction to computational algebraic geometry and commutative algebra : with 91 illustrations
+Inorganic syntheses
+Introduction to cryptography : with coding theory
+Introduction to modern thermodynamics
+Introduction to number theory
+Introduction to the practice of statistics
+Introduction to the theory of matroids
+Introduction to toric varieties
+Kentucky engineer : official publication of the Kentucky Society of Professional Engineers
+Lectures in mathematics and physics
+Lectures on polytopes
+Many-particle physics
+Mathematics for economists
+Meeting the universe halfway : quantum physics and the entanglement of matter and meaning
+Nonlinear solid mechanics for finite element analysis : statics
+Notices of the American Mathematical Society
+Options, futures, and other derivatives
+Organic chemistry as a second language
+Peat stratigraphy and climatic change : a palaeoecological test of the theory of cyclic peat bog regeneration
+Physics : principles with applications
+Polynomial methods in combinatorics
+Practical acoustics and planning against noise
+Practical signal processing
+Quantitative chemical analysis
+Quantum chemistry
+Quantum theory of the electron liquid
+Quiver representations and quiver varieties
+Reading the skies : a cultural history of English weather, 1650-1820
+Regular polytopes
+Representation theory : a homological algebra point of view
+Riemannian geometry
+Scientific computation on mathematical problems and conjectures
+Sedimentary petrology : an introduction to the origin of sedimentary rocks
+Sedimentary rocks in the field
+Sedimentary rocks in the field : a color guide
+Sedimentary structures
+Signals and systems
+Sky and telescope
+Stochastic calculus and financial applications
+Stochastic tools in mathematics and science
+Structural additive theory
+Structural analysis
+Study guide and student solutions manual to accompany Physics for scientists and engineers
+Surface mining
+Surveying
+Synthetic methods of organometallic and inorganic chemistry : (Herrmann/Brauer)
+Tensors : geometry and applications
+The Cave Research Foundation
+The Hardy-Littlewood method
+The Journals of the Lewis and Clark Expedition
+The Yokohama mathematical journal
+The elements of statistical learning : data mining, inference, and prediction : with 200 full-color illustrations
+The hydrogen revolution : a blueprint for the future of clean energy
+The leading edge
+The little book of string theory
+The physics companion
+Think Bayes : Bayesian statistics in Python
+Topics in current aerosol research
+Topological vector spaces
+Transactions of the American Mathematical Society
+Treatise on geophysics
+Trotter-Kato product formulæ
+Tunable lasers and applications : proceedings of the Loen Conference, Norway, 1976
+We have never been modern
+Western Pacific earth sciences
