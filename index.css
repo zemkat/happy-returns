@@ -1,0 +1,78 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.box .row.header {
+  flex: 0 1 auto;
+}
+
+.box .row.content {
+  flex: 1 1 auto;
+}
+
+.box .row.footer {
+  flex: 0 1 40px;
+}
+
+body {
+  background-color: #bbf;
+  font-size: 4vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.whole-screen {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  padding-left: 3em;
+  font-size: 4vh;
+}
+
+#container {
+  position: relative;
+}
+
+.bubble {
+  position: absolute;
+  border-radius: 2ex;
+  animation-duration: 30s;
+  animation-name: bubble;
+  padding: 1ex;
+  background-color: white;
+  opacity: 0%;
+  border: 1px solid blue;
+  margin-right: 1ex;
+}
+
+@keyframes bubble {
+  from {
+    opacity: 0%;
+  }
+
+  5% {
+    opacity: 100%;
+  }
+
+  95% {
+    opacity: 100%;
+  }
+
+  to {
+    opacity: 0%;
+  }
+}
