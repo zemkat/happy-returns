@@ -1,112 +1,158 @@
+"Surely you're joking, Mr. Feynman!" : adventures of a curious character
+1973 update of A growing community
+3000 solved problems in calculus
+A course in real algebraic geometry : positivity and sums of squares
 A first course in category theory
-A planet to win : why we need a green new deal
-A royal road to algebraic geometry
-Additive number theory : the classical bases
+A first course in linear models and design of experiments
+A first course in stochastic processes
+ASM handbook
 Advances in applied mechanics
-American Prometheus : the triumph and tragedy of J. Robert Oppenheimer
+Algebraic geometry
+Algebraic geometry : a first course
 An American scientist : the autobiography of Gabor A. Somorjai  with Mitch Jacoby
-An introduction to Markov processes
+An atlas of Franklin county, Kentucky; from actual surveys
+An interim and short range land use plan for the Lexington urban area
+An introduction to homological algebra
 Analysis : with an introduction to proof
-Annali della Scuola normale superiore di Pisa, Classe di scienze
-Annals of mathematics
-Applications of Mossbauer spectroscopy
-Aquatic chemistry : interfacial and interspecies processes
-Aspects of homogeneous catalysis
-Atlas and glossary of primary sedimentary structures
-Atlas of design
-Basic training in mathematics : a fitness program for science students
-Beginning Java 8 fundamentals : language syntax, arrays, data types, objects, and regular expressions
-Bernoulli : official journal of the Bernoulli Society for Mathematical Statistics and Probability
-Bimonoidal categories, En-monoidal categories, and algebraic K-theory
-Calculus
-Causal inference for statistics, social, and biomedical sciences : an introduction
-Classical mechanics with Maple
+Annals of the former world
+Antifragile : things that gain from disorder
+Astrophysics
+Astrophysics in a nutshell
+Asymptotics and special functions
+Atlas of submarine glacial landforms : modern, quaternary and ancient
+Basic modern theory of linear complex analytic q-difference equations
+Biased sampling, over-identified parameter problems and beyond
+Categorical data analysis and multilevel modeling using R
+Cenozoic isolated carbonate platforms : focus Southeast Asia
+Change point analysis for time series
+Cities of the classical world : an atlas and gazetteer of 120 centres of ancient civilization
+Clinical trials : a methodologic perspective
+Coal processing and pollution control
 College physics
-Combinatorial enumeration
-Commentarii mathematici Helvetici
-Commutative algebra with a view toward algebraic geometry
-Condensed matter field theory
-Cosmic magnetic fields
-Depositional sedimentary environments, with reference to terrigenous clastics
-Direct and inverse scattering on the line
-Dynamic programming and optimal control
-Earthquakes, volcanoes, and tsunamis : an anatomy of hazards
-Electrohydrodynamics
-Electrospray ionization mass spectrometry : fundamentals, instrumentation, and applications
-Elementary methods in number theory
-Enlightening symbols : a short history of mathematical notation and its hidden powers
-Ergodic dynamics: from basic theory to applications
-Failure atlas for Hertz contact machine elements
-Financial calculus : an introduction to derivative pricing
-Fourier analysis : an introduction
-General topology
-Georg Cantor : his mathematics and philosophy of the infinite
-Graph edge coloring : Vizing's theorem and Goldberg's conjecture
-Graph polynomials
-Guide to geometric algebra in practice
-Higher order Fourier analysis
-Ideals, varieties, and algorithms : an introduction to computational algebraic geometry and commutative algebra : with 91 illustrations
-Inorganic syntheses
-Introduction to cryptography : with coding theory
-Introduction to modern thermodynamics
-Introduction to number theory
-Introduction to the practice of statistics
-Introduction to the theory of matroids
-Introduction to toric varieties
-Kentucky engineer : official publication of the Kentucky Society of Professional Engineers
-Lectures in mathematics and physics
-Lectures on polytopes
-Many-particle physics
+Comparative approaches to using R and Python for statistical data analysis
+Computer algebra in physical research : memorial volume for N.N. Govorun, Dubna, USSR, 22-26 May 1990
+Computer organization and the system/370
+Conceptual physics
+Conversion factors
+Data manipulation With R
+Data science from scratch : first principles with Python
+Decomposition techniques in mathematical programming : engineering and science applications
+Design and analysis of experiments
+Diamond, a paradox logic
+Disposal of excess spoil from coal mining and the Surface Mining Control and Reclamation Act of 1977 : a study of regulatory requirements, engineering practices, and environmental protection objectives : a report
+Distributions in statistics: continuous multivariate distributions
+Dynamic documents with R and knitr
+Early coordination documentation for highway project, Fayette County : Project No. U524(13), U173(9), U326(25), Kentucky Dept. of Highways
+Electronic properties of materials
+Elementary quantum mechanics
+Elements of number theory
+Elliptic problems in nonsmooth domains
+Engineering 21st century highways : proceedings of a conference
+Engineering fluid mechanics
+Everyday calculus : discovering the hidden math all around us
+Evolution of networks with multiple junctions
+Fiber conservation and utilization : proceedings of the May 1974 Pulp & paper seminar, Chicago, Illinois
+Financial econometrics, mathematics and statistics : theory, method and application
+Fluid mechanics
+From strange simplicity to complex familiarity : a treatise on matter, information, life and thought
+Functional analytic methods for heat Green operators : heat kernel asymptotics via the Weyl-Hörmander calculus
+Fundamentals of fluid mechanics
+Graduate programs:
+Hamlet on the holodeck : the future of narrative in cyberspace
+Hardware/software co-design
+Hierarchical linear modeling : guide and applications
+History of mechanical engineering
+How to build a dinosaur : extinction doesn't have to be forever
+Hydrocyclones : analysis and applications
+Ice, mud and blood : lessons from climates past
+Imagineering with Carle GC valves : or, gas chromatography has gone to the dogs (formerly known as gas chromatography is for the birds)
+Inorganic crystal structures
+Interactive and Dynamic Graphics for Data Analysis : with R and GGobi
+International Concrete Road Congress, Rome, 16-19 October, 1957 : [papers]
+Intersection theory
+Introduction to anisotropic elasticity theory of dislocations
+Introduction to applied mathematics
+Introduction to elementary particles
+Introduction to interrater agreement for nominal data
+Introduction to intersection theory in algebraic geometry
+Introduction to quantum mechanics
+Introduction to real analysis
+Introduction to tropical geometry
+Introductory quantum electrodynamics
+Introductory quantum mechanics : a traditional approach emphasizing connections with classical physics
+Linear algebra done right
+March 4 : scientists, students, and society
+Mathematical methods for physicists : a comprehensive guide
+Mathematical methods of physics
+Mathematical physics
 Mathematics for economists
-Meeting the universe halfway : quantum physics and the entanglement of matter and meaning
-Nonlinear solid mechanics for finite element analysis : statics
-Notices of the American Mathematical Society
-Options, futures, and other derivatives
+Measure, integration & real analysis
+Molecular modelling : principles and applications
+New perspectives on approximation and sampling theory : festschrift in honor of Paul Butzer's 85th birthday
+Nonlinear dispersive equations : inverse scattering and PDE methods
+Nonlinear dynamics and chaos : with applications to physics, biology, chemistry, and engineering
+Open-channel hydraulics
 Organic chemistry as a second language
-Peat stratigraphy and climatic change : a palaeoecological test of the theory of cyclic peat bog regeneration
+Partial moments in system identification
+Perspectives in carbonate geology : a tribute to the career of Robert Nathan Ginsburg
+Phase transformations in metals and alloys
+Photographic lab handbook
+Photographic science : advances in nanoparticles, J-aggregates, dye sensitization, and organic devices
+Physical and geotechnical properties of soils
 Physics : principles with applications
-Polynomial methods in combinatorics
-Practical acoustics and planning against noise
-Practical signal processing
+Pioneering women in American mathematics : the pre-1940 PhD's
+Polyhedra
+Problems in engineering soils
+Product and process design principles : synthesis, analysis and evaluation
+Programming and computing: IBM 360:
+Python crash course : a hands-on, project-based introduction to programming
+Quantile regression for spatial data
 Quantitative chemical analysis
-Quantum chemistry
-Quantum theory of the electron liquid
-Quiver representations and quiver varieties
-Reading the skies : a cultural history of English weather, 1650-1820
-Regular polytopes
-Representation theory : a homological algebra point of view
-Riemannian geometry
-Scientific computation on mathematical problems and conjectures
-Sedimentary petrology : an introduction to the origin of sedimentary rocks
-Sedimentary rocks in the field
-Sedimentary rocks in the field : a color guide
-Sedimentary structures
-Signals and systems
-Sky and telescope
-Stochastic calculus and financial applications
-Stochastic tools in mathematics and science
-Structural additive theory
-Structural analysis
-Study guide and student solutions manual to accompany Physics for scientists and engineers
+Quantum computing for computer scientists
+Quantum computing for everyone
+Quantum mechanics : a conceptual approach
+Quantum physics
+Random measures
+Randomized response and indirect questioning techniques in surveys
+Reflection groups and coxeter groups
+Reproducing kernel Hilbert spaces in probability and statistics
+Science and technology of fibers and related materials : proceedings of the Fiber Society 50th Anniversary Technical Conference held in Princeton, New Jersey, August 19-23, 1990
+Shape : talking about seeing and doing
+Six easy pieces : essentials of physics explained by its most brilliant teacher
+Smokestacks and progressives : environmentalists, engineers and air quality in America, 1881-1951
+Soil mechanics for unsaturated soils
+Statistical computing in C++ and R
+Statistical physics
+Statistical physics of particles
+Statistical program library for the IBM system/360
+Structural engineering : the nature of theory and design
+Structural equation modeling with Mplus : basic concepts, applications, and programming
 Surface mining
-Surveying
+Survey sampling theory and applications
 Synthetic methods of organometallic and inorganic chemistry : (Herrmann/Brauer)
-Tensors : geometry and applications
-The Cave Research Foundation
-The Hardy-Littlewood method
-The Journals of the Lewis and Clark Expedition
-The Yokohama mathematical journal
-The elements of statistical learning : data mining, inference, and prediction : with 200 full-color illustrations
-The hydrogen revolution : a blueprint for the future of clean energy
-The leading edge
-The little book of string theory
-The physics companion
-Think Bayes : Bayesian statistics in Python
-Topics in current aerosol research
-Topological vector spaces
-Transactions of the American Mathematical Society
-Treatise on geophysics
-Trotter-Kato product formulæ
-Tunable lasers and applications : proceedings of the Loen Conference, Norway, 1976
+Technical communication
+Textured and novelty yarn processes
+The Nonesuch abandoned channel of the Kentucky river; a study in Pliocene drainage, physiography and geology
+The Penguin atlas of modern history (to 1815)
+The Penguin historical atlas of the Pacific
+The apprenticeship of a mathematician
+The art of writing reasonable organic reaction mechanisms
+The beauty of fractals : images of complex dynamical systems
+The color tree : the story of color and demonstrations in color perception
+The complete reference star schema
+The cosmic landscape : string theory and the illusion of intelligent design
+The origin of the logic of symbolic mathematics : Edmund Husserl and Jacob Klein
+The pleasure of finding things out : the best short works of Richard P. Feynman
+The solid earth : an introduction to global geophysics
+Thermodynamics
+Time series analysis in the social sciences : the fundamentals
+Turbulent flows
+USA and International Mathematical Olympiads 2000
+Uncertainty : the soul of modeling, probability & statistics
+Upper bounds for Grothendieck constants, quantum correlation matrices and CCP functions
+Vector bundles on complex projective spaces
 We have never been modern
-Western Pacific earth sciences
+What do YOU care what other people think? : further adventures of a curious character
+Women in physics  : 2nd IUPAP International Conference on Women in Physics, Rio de Janeiro, Brazil, 23-25 May 2005
+Woven cloth construction
+ggplot2 : elegant graphics for data analysis
