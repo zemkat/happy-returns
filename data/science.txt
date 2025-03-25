@@ -1,158 +1,138 @@
-"Surely you're joking, Mr. Feynman!" : adventures of a curious character
-1973 update of A growing community
-3000 solved problems in calculus
-A course in real algebraic geometry : positivity and sums of squares
-A first course in category theory
-A first course in linear models and design of experiments
+A computer atlas of Ottawa-Hull (with a bibliography of computer-mapping)
+A first course in general relativity
 A first course in stochastic processes
-ASM handbook
-Advances in applied mechanics
-Algebraic geometry
-Algebraic geometry : a first course
-An American scientist : the autobiography of Gabor A. Somorjai  with Mitch Jacoby
-An atlas of Franklin county, Kentucky; from actual surveys
-An interim and short range land use plan for the Lexington urban area
-An introduction to homological algebra
-Analysis : with an introduction to proof
-Annals of the former world
-Antifragile : things that gain from disorder
-Astrophysics
-Astrophysics in a nutshell
-Asymptotics and special functions
-Atlas of submarine glacial landforms : modern, quaternary and ancient
-Basic modern theory of linear complex analytic q-difference equations
+A people's atlas of Detroit
+Acoustic fields and waves in solids
+Advanced mechanics of materials
+Advances in corrosion science and technology
+Advances in repair/retrofit/strengthening, design and analysis of structures : held at the ACI Concrete Convention 2023, San Francisco, California, 2-6 April 2023
+Air transport navigation for pilots and navigators
+Algebraic and combinatorial computational biology
+Algebraic geometry : a problem solving approach
+Algebraic geometry over the complex numbers
+An introduction to KMS weights
+An introduction to bootstrap methods with applications to R
+An introduction to categorical data analysis
+An introduction to geotechnical engineering
+An introduction to statistical concepts
+An introduction to statistical learning : with applications in R
+Analysis and partial differential equations
+Asymptotic analysis
+Atlas of Atlanta; the 1970's
+Atlas of design
+Atlas of forecasts : modeling and mapping desirable futures
+Atlas of the invisible : maps & graphics that will change how you see the world
+Best practices and lessons learned for teaching concrete materials and reinforced concrete : held at the ACI VIrtual Concrete Convention 2021, online, 17-21 October 2021
 Biased sampling, over-identified parameter problems and beyond
-Categorical data analysis and multilevel modeling using R
-Cenozoic isolated carbonate platforms : focus Southeast Asia
-Change point analysis for time series
+Building on sinkholes : design and construction of foundations in Karst terrain
+Categorical data analysis
+Chemistry of atmospheres : an introduction to the chemistry of the atmospheres of earth, the planets, and their satellites
+Chemistry: a survey
 Cities of the classical world : an atlas and gazetteer of 120 centres of ancient civilization
-Clinical trials : a methodologic perspective
-Coal processing and pollution control
-College physics
-Comparative approaches to using R and Python for statistical data analysis
-Computer algebra in physical research : memorial volume for N.N. Govorun, Dubna, USSR, 22-26 May 1990
-Computer organization and the system/370
+Classical algebraic geometry : a modern view
+Coal mine structures
+Cohomology of number fields
 Conceptual physics
-Conversion factors
-Data manipulation With R
-Data science from scratch : first principles with Python
-Decomposition techniques in mathematical programming : engineering and science applications
-Design and analysis of experiments
-Diamond, a paradox logic
-Disposal of excess spoil from coal mining and the Surface Mining Control and Reclamation Act of 1977 : a study of regulatory requirements, engineering practices, and environmental protection objectives : a report
-Distributions in statistics: continuous multivariate distributions
-Dynamic documents with R and knitr
-Early coordination documentation for highway project, Fayette County : Project No. U524(13), U173(9), U326(25), Kentucky Dept. of Highways
-Electronic properties of materials
-Elementary quantum mechanics
-Elements of number theory
-Elliptic problems in nonsmooth domains
-Engineering 21st century highways : proceedings of a conference
-Engineering fluid mechanics
-Everyday calculus : discovering the hidden math all around us
-Evolution of networks with multiple junctions
-Fiber conservation and utilization : proceedings of the May 1974 Pulp & paper seminar, Chicago, Illinois
-Financial econometrics, mathematics and statistics : theory, method and application
-Fluid mechanics
-From strange simplicity to complex familiarity : a treatise on matter, information, life and thought
-Functional analytic methods for heat Green operators : heat kernel asymptotics via the Weyl-Hörmander calculus
-Fundamentals of fluid mechanics
-Graduate programs:
-Hamlet on the holodeck : the future of narrative in cyberspace
-Hardware/software co-design
-Hierarchical linear modeling : guide and applications
-History of mechanical engineering
-How to build a dinosaur : extinction doesn't have to be forever
-Hydrocyclones : analysis and applications
-Ice, mud and blood : lessons from climates past
-Imagineering with Carle GC valves : or, gas chromatography has gone to the dogs (formerly known as gas chromatography is for the birds)
-Inorganic crystal structures
-Interactive and Dynamic Graphics for Data Analysis : with R and GGobi
-International Concrete Road Congress, Rome, 16-19 October, 1957 : [papers]
-Intersection theory
-Introduction to anisotropic elasticity theory of dislocations
-Introduction to applied mathematics
-Introduction to elementary particles
-Introduction to interrater agreement for nominal data
-Introduction to intersection theory in algebraic geometry
+Conformal field theory
+Continuum mechanics
+Correlations of soil properties
+Counterpoints : a San Francisco Bay Area atlas of displacement & resistance
+Degree theory and symmetric equations assisted by GAP system : with a special focus on systems with hysteresis
+Development and applications of FRP reinforcements (DA-FRPR'21) : online 17-21 October 2021
+Differential geometry and homogeneous spaces
+Dynamics and relativity
+Earth materials : introduction to mineralogy and petrology
+Economic and social atlas of Missouri
+Electrochemical methods : fundamentals and applications
+Elementary applied aerodynamics
+Elementary partial differential equations with boundary value problems
+Elementary theory of angular momentum
+Elements of electromagnetics
+Encyclopedia of bridges and tunnels
+Environmental aspects of mine wastes
+Extinctions in near time : causes, contexts, and consequences
+Fundamentals of microfabrication : the science of miniaturization
+Geometric and analytic aspects of functional variational principles : Cetraro, Italy 2022
+Groundwater as a geomorphic agent
+Handbook of fluidization and fluid-particle systems
+Hands-on time series analysis with Python : from basics to bleeding edge techniques
+Helix structures in quantum cohomology of Fano varieties
+High speed aerodynamics and jet propulsion
+High-dimensional covariance estimation
+Homesteading space : the Skylab story
+How to gamble if you must; inequalities for stochastic processes
+Introduction to automata theory, languages, and computation
+Introduction to geometry
+Introduction to manufacturing processes
 Introduction to quantum mechanics
-Introduction to real analysis
-Introduction to tropical geometry
-Introductory quantum electrodynamics
-Introductory quantum mechanics : a traditional approach emphasizing connections with classical physics
-Linear algebra done right
-March 4 : scientists, students, and society
-Mathematical methods for physicists : a comprehensive guide
-Mathematical methods of physics
-Mathematical physics
-Mathematics for economists
-Measure, integration & real analysis
-Molecular modelling : principles and applications
-New perspectives on approximation and sampling theory : festschrift in honor of Paul Butzer's 85th birthday
-Nonlinear dispersive equations : inverse scattering and PDE methods
-Nonlinear dynamics and chaos : with applications to physics, biology, chemistry, and engineering
-Open-channel hydraulics
-Organic chemistry as a second language
-Partial moments in system identification
-Perspectives in carbonate geology : a tribute to the career of Robert Nathan Ginsburg
-Phase transformations in metals and alloys
-Photographic lab handbook
-Photographic science : advances in nanoparticles, J-aggregates, dye sensitization, and organic devices
-Physical and geotechnical properties of soils
-Physics : principles with applications
-Pioneering women in American mathematics : the pre-1940 PhD's
-Polyhedra
-Problems in engineering soils
-Product and process design principles : synthesis, analysis and evaluation
-Programming and computing: IBM 360:
-Python crash course : a hands-on, project-based introduction to programming
-Quantile regression for spatial data
-Quantitative chemical analysis
-Quantum computing for computer scientists
-Quantum computing for everyone
-Quantum mechanics : a conceptual approach
-Quantum physics
-Random measures
-Randomized response and indirect questioning techniques in surveys
-Reflection groups and coxeter groups
-Reproducing kernel Hilbert spaces in probability and statistics
-Science and technology of fibers and related materials : proceedings of the Fiber Society 50th Anniversary Technical Conference held in Princeton, New Jersey, August 19-23, 1990
-Shape : talking about seeing and doing
-Six easy pieces : essentials of physics explained by its most brilliant teacher
-Smokestacks and progressives : environmentalists, engineers and air quality in America, 1881-1951
-Soil mechanics for unsaturated soils
-Statistical computing in C++ and R
-Statistical physics
-Statistical physics of particles
-Statistical program library for the IBM system/360
-Structural engineering : the nature of theory and design
-Structural equation modeling with Mplus : basic concepts, applications, and programming
-Surface mining
-Survey sampling theory and applications
-Synthetic methods of organometallic and inorganic chemistry : (Herrmann/Brauer)
-Technical communication
-Textured and novelty yarn processes
-The Nonesuch abandoned channel of the Kentucky river; a study in Pliocene drainage, physiography and geology
+Introduction to solid state physics
+Introduction to the theory of computation
+Introductory matter physics
+Irrational numbers
+Journal of the American Statistical Association
+K-theory : an introduction
+K-theory and representation theory
+Lie algebras in particle physics
+Logarithmic potentials with external fields
+Materials for civil and construction engineers
+Mathematical methods for physicists
+Matroid theory
+Metal matrix composite technology
+Mine drainage : proceedings of the First International Mine Drainage Symposium, Denver, Colorado, May 1979
+Mine mapping and layout
+Mine waste management
+Modern aspects of dynamical systems : Cetraro, Italy 2021
+Montana in maps, 1974
+Neural networks and statistical learning
+Nonparametric statistical methods
+Operator algebras and quantum statistical mechanics
+Ordering disorder : prospect and retrospect in condensed matter physics : proceedings of the Indo-U.S. workshop, Hyderabad, India, December 1992-January 1993
+Partial differential equations in general relativity
+Particles and nuclei : an introduction to the physical concepts
+Physical properties of materials
+Practical signal processing
+Principal symbol calculus on contact manifolds
+Probability on graphs : random processes on graphs and lattices
+Probability theory
+Probability theory : a comprehensive course
+Proceedings of the American Mathematical Society
+Proceedings of the Second International Conference on the Reclamation, Treatment, and Utilization of Coal Mining Wastes, Nottingham, England, September 7-11, 1987
+Radiant darkness: the wonderful world of caves
+Rudiments of mining practice
+Scaling and renormalization in statistical physics
+Semiparametric regression with R
+Shelter : an atlas
+Simple views on condensed matter
+Sintering processes
+Soil mechanics
+Soil mechanics for road engineers
+Soil mechanics in engineering practice
+Solid state physics
+Solving problems in soil mechanics
+Spectral analysis of large dimensional random matrices
+Strata control in mineral engineering
+Stream restoration in dynamic fluvial systems : scientific approaches, analyses, and tools
+The C programming language
 The Penguin atlas of modern history (to 1815)
 The Penguin historical atlas of the Pacific
-The apprenticeship of a mathematician
-The art of writing reasonable organic reaction mechanisms
-The beauty of fractals : images of complex dynamical systems
-The color tree : the story of color and demonstrations in color perception
-The complete reference star schema
-The cosmic landscape : string theory and the illusion of intelligent design
-The origin of the logic of symbolic mathematics : Edmund Husserl and Jacob Klein
-The pleasure of finding things out : the best short works of Richard P. Feynman
-The solid earth : an introduction to global geophysics
-Thermodynamics
-Time series analysis in the social sciences : the fundamentals
-Turbulent flows
-USA and International Mathematical Olympiads 2000
-Uncertainty : the soul of modeling, probability & statistics
-Upper bounds for Grothendieck constants, quantum correlation matrices and CCP functions
-Vector bundles on complex projective spaces
-We have never been modern
-What do YOU care what other people think? : further adventures of a curious character
-Women in physics  : 2nd IUPAP International Conference on Women in Physics, Rio de Janeiro, Brazil, 23-25 May 2005
-Woven cloth construction
-ggplot2 : elegant graphics for data analysis
+The art of working with the Mathieu group M24
+The first war of physics : the secret history of the atom bomb, 1939-1949
+The history and science of the Manhattan Project
+The perfectionists : how precision engineers created the modern world
+The physics of semimetals and narrow-gap semiconductors; proceedings
+The social geography of Kentucky : a preliminary computer cartographic analysis of ten selected variables
+The spectrum of hyperbolic surfaces
+The stabilization of the Frobenius-Hecke traces on the intersection cohomology of orthogonal Shimura varieties
+The theory of countable Borel equivalence relations
+The ventilation of mines. Designed for use in schools and colleges; and for practical mining men in their study of the subject
+The way of analysis
+Topological vector spaces
+Transactions of the American Mathematical Society
+Tropical algebraic geometry
+Turbulent shear layers in supersonic flow
+Twisted Morse complexes : Morse homology and cohomology with local coefficients
+Understanding analysis
+Understanding and using C pointers
+Vector mechanics for engineers
+Waste production and disposal in mining, milling, and metallurgical industries
+World maps
