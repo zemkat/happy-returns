@@ -1,138 +1,102 @@
-A computer atlas of Ottawa-Hull (with a bibliography of computer-mapping)
-A first course in general relativity
-A first course in stochastic processes
-A people's atlas of Detroit
-Acoustic fields and waves in solids
-Advanced mechanics of materials
-Advances in corrosion science and technology
-Advances in repair/retrofit/strengthening, design and analysis of structures : held at the ACI Concrete Convention 2023, San Francisco, California, 2-6 April 2023
-Air transport navigation for pilots and navigators
-Algebraic and combinatorial computational biology
-Algebraic geometry : a problem solving approach
-Algebraic geometry over the complex numbers
-An introduction to KMS weights
-An introduction to bootstrap methods with applications to R
-An introduction to categorical data analysis
-An introduction to geotechnical engineering
-An introduction to statistical concepts
-An introduction to statistical learning : with applications in R
-Analysis and partial differential equations
-Asymptotic analysis
-Atlas of Atlanta; the 1970's
-Atlas of design
-Atlas of forecasts : modeling and mapping desirable futures
-Atlas of the invisible : maps & graphics that will change how you see the world
-Best practices and lessons learned for teaching concrete materials and reinforced concrete : held at the ACI VIrtual Concrete Convention 2021, online, 17-21 October 2021
-Biased sampling, over-identified parameter problems and beyond
-Building on sinkholes : design and construction of foundations in Karst terrain
-Categorical data analysis
-Chemistry of atmospheres : an introduction to the chemistry of the atmospheres of earth, the planets, and their satellites
-Chemistry: a survey
-Cities of the classical world : an atlas and gazetteer of 120 centres of ancient civilization
-Classical algebraic geometry : a modern view
-Coal mine structures
-Cohomology of number fields
-Conceptual physics
-Conformal field theory
-Continuum mechanics
-Correlations of soil properties
-Counterpoints : a San Francisco Bay Area atlas of displacement & resistance
-Degree theory and symmetric equations assisted by GAP system : with a special focus on systems with hysteresis
-Development and applications of FRP reinforcements (DA-FRPR'21) : online 17-21 October 2021
-Differential geometry and homogeneous spaces
-Dynamics and relativity
-Earth materials : introduction to mineralogy and petrology
-Economic and social atlas of Missouri
+"Surely you're joking, Mr. Feynman" : adventures of a curious character
+12th ACI/RILEM International Conference on Cementitious Materials and Alternative Binders for Sustainable Concrete : ICCM 2024 : Toulouse, France, 23-26 June 2024
+16th International Symposium on Fiber-Reinforced (FRP) Reinforcement for Concrete Structures : FRPRCS-16 : held at the ACI Concrete Convention 2024, New Orleans, Louisiana USA, 24-28 March 2024
+Abstractions and embodiments : new histories of computing and society
+Advances in catalysis
+An introduction to theory and applications of stationary variational-hemivariational inequalities
+Analysis without borders : dedicated to Ilya Spitkovsky on occasion of his 70th anniversary
+Annals of mathematics
+Architectural graphic standards for architects, engineers, decorators, builders, draftsmen, and students
+Astrophysical concepts
+Bioseparation and bioprocessing
+Bulletin of the Polish Academy of Sciences
+Cartographic grounds : projecting the landscape imaginary
+Components of variance
+Concrete and cement-based composites for sustainable built environments
+Concrete mathematics : a foundation for computer science
+Construction and modification of debris-flow alluvial fans as captured in the geomorphic and sedimentary record : examples from the Western Sangre de Cristo Mountains, South-Central Colorado
+Contract theory in continuous-time models
+Crystal growth of organic materials
+Design and analysis of experiments
+Determining sample size and power in research studies : a manual for researchers
+Detours : a decolonial guide to Hawaiʻi
+Developments, applications, and case studies in UHPC for bridges and structures : held at the ACI Concrete Convention 2022, Orlando, Florida, USA, 27-31 March 2022
+Dynamics of particles and rigid bodies : a systematic approach
+Earth and rockfill dams : principles of design and construction
+Echinoderm biology : proceedings of the sixth International Echinoderm Conference, Victoria, 23-28 August 1987
+Echinoderm studies
+Economic geology and the bulletin of the Society of Economic Geologists
+Elasticity : theory, applications, and numerics
 Electrochemical methods : fundamentals and applications
-Elementary applied aerodynamics
-Elementary partial differential equations with boundary value problems
-Elementary theory of angular momentum
-Elements of electromagnetics
-Encyclopedia of bridges and tunnels
-Environmental aspects of mine wastes
-Extinctions in near time : causes, contexts, and consequences
-Fundamentals of microfabrication : the science of miniaturization
-Geometric and analytic aspects of functional variational principles : Cetraro, Italy 2022
-Groundwater as a geomorphic agent
-Handbook of fluidization and fluid-particle systems
-Hands-on time series analysis with Python : from basics to bleeding edge techniques
-Helix structures in quantum cohomology of Fano varieties
-High speed aerodynamics and jet propulsion
-High-dimensional covariance estimation
-Homesteading space : the Skylab story
-How to gamble if you must; inequalities for stochastic processes
-Introduction to automata theory, languages, and computation
-Introduction to geometry
-Introduction to manufacturing processes
-Introduction to quantum mechanics
-Introduction to solid state physics
-Introduction to the theory of computation
-Introductory matter physics
-Irrational numbers
-Journal of the American Statistical Association
-K-theory : an introduction
-K-theory and representation theory
-Lie algebras in particle physics
-Logarithmic potentials with external fields
-Materials for civil and construction engineers
-Mathematical methods for physicists
-Matroid theory
-Metal matrix composite technology
-Mine drainage : proceedings of the First International Mine Drainage Symposium, Denver, Colorado, May 1979
-Mine mapping and layout
-Mine waste management
-Modern aspects of dynamical systems : Cetraro, Italy 2021
-Montana in maps, 1974
-Neural networks and statistical learning
-Nonparametric statistical methods
-Operator algebras and quantum statistical mechanics
-Ordering disorder : prospect and retrospect in condensed matter physics : proceedings of the Indo-U.S. workshop, Hyderabad, India, December 1992-January 1993
-Partial differential equations in general relativity
+Engineering design
+Engineering dynamics
+Engineering fundamentals
+Engineering materials : properties and selection
+Environmental engineering : a design approach
+Extending the linear model with R : generalized linear, mixed effects and nonparametric regression models
+Flexible regression and smoothing : using GAMLSS in R
+Foundation behavior and repair : residential and light construction
+Fundamentals of Fourier analysis
+Fundamentals of III-V devices : HBTs, MESFETs, and HFETs/HEMTs
+GIS for environmental applications : a practical approach
+Genomic technologies : present and future
+Geological excursions in Kentucky; a series of twelve outline description of localities in and about the bluegrass region exhibiting earth phenomena of unusual interest
+Graph theory : modeling, applications, and algorithms
+Groups St Andrews 2022 in Newcastle
+Guidebook for the ... annual Field Conference of Pennsylvania Geologists
+Hammond atlas of the world
+Hesiod's anvil : falling and spinning through heaven and earth
+Higher dimensional algebraic geometry : a volume in honor of V. V. Shokurov
+Highway drainage guidelines
+Highway engineering
+Historical atlas of Kansas
+Historical atlas of Missouri
+Introduction to modern optics
+Journal of operator theory
+Laser cooling and trapping
+Light : the visible spectrum and beyond
+Linear algebra
+Linear algebra and its applications
+Linear mixed-effects models using R : a step-by-step approach
+Linear representations of finite groups
+Math and art : an introduction to visual mathematics
+Mathematics of computation
+Membranes in bioprocessing : theory and applications
+Metals and society : an introduction to economic geology
+Modern aether science
+Palaeontographica Americana
+Paleokarst
+Particle deposition and aggregation : measurement, modelling, and simulation
 Particles and nuclei : an introduction to the physical concepts
-Physical properties of materials
-Practical signal processing
-Principal symbol calculus on contact manifolds
-Probability on graphs : random processes on graphs and lattices
-Probability theory
-Probability theory : a comprehensive course
+Physics for poets
+Planning of experiments
+Principles of astrophysical fluid dynamics
+Principles of igneous and metamorphic petrology
 Proceedings of the American Mathematical Society
-Proceedings of the Second International Conference on the Reclamation, Treatment, and Utilization of Coal Mining Wastes, Nottingham, England, September 7-11, 1987
-Radiant darkness: the wonderful world of caves
-Rudiments of mining practice
-Scaling and renormalization in statistical physics
-Semiparametric regression with R
-Shelter : an atlas
-Simple views on condensed matter
-Sintering processes
-Soil mechanics
-Soil mechanics for road engineers
-Soil mechanics in engineering practice
-Solid state physics
-Solving problems in soil mechanics
-Spectral analysis of large dimensional random matrices
-Strata control in mineral engineering
-Stream restoration in dynamic fluvial systems : scientific approaches, analyses, and tools
-The C programming language
-The Penguin atlas of modern history (to 1815)
-The Penguin historical atlas of the Pacific
-The art of working with the Mathieu group M24
-The first war of physics : the secret history of the atom bomb, 1939-1949
-The history and science of the Manhattan Project
-The perfectionists : how precision engineers created the modern world
-The physics of semimetals and narrow-gap semiconductors; proceedings
-The social geography of Kentucky : a preliminary computer cartographic analysis of ten selected variables
-The spectrum of hyperbolic surfaces
-The stabilization of the Frobenius-Hecke traces on the intersection cohomology of orthogonal Shimura varieties
-The theory of countable Borel equivalence relations
-The ventilation of mines. Designed for use in schools and colleges; and for practical mining men in their study of the subject
-The way of analysis
-Topological vector spaces
-Transactions of the American Mathematical Society
-Tropical algebraic geometry
-Turbulent shear layers in supersonic flow
-Twisted Morse complexes : Morse homology and cohomology with local coefficients
-Understanding analysis
-Understanding and using C pointers
-Vector mechanics for engineers
-Waste production and disposal in mining, milling, and metallurgical industries
-World maps
+Recent stability issues for linear dynamical systems : Cetraro, Italy 2021
+Research methodology : a step-by-step guide for beginners
+Residential foundations : design, behavior, and repair
+Residuated structures in algebra and logic
+Reviews in mineralogy and geochemistry
+Roadside design guide
+Spectral decomposition and Eisenstein series : une paraphrase de l'écriture
+Spectral theory and quantum mechanics
+Square roots of elliptic systems in locally uniform domains
+Standard handbook of environmental engineering
+Statistical design
+Statistical machine learning for engineering with applications
+Statistics for experimenters : design, innovation, and discovery
+Technical communication
+Terra forma : a book of speculative maps
+Test-driven development : by example
+The Fourier transform and its applications
+The Nonesuch abandoned channel of the Kentucky river; a study in Pliocene drainage, physiography and geology
+The donor-acceptor approach to molecular interactions
+The great American carbonate bank : the geology and economic resources of the Cambrian-Ordovician sauk megasequence of Laurentia
+The mathematics of computerized tomography
+The theory of the design of experiments
+Think Bayes : Bayesian statistics in Python
+Topology and geometry of intersections of ellipsoids in Rn
+Water treatment : troubleshooting and problem solving
+Water-resisting basement construction : a guide : safeguarding new and existing basements against water and dampness
+We have never been modern
